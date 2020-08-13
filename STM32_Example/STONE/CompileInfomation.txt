@@ -1,0 +1,1472 @@
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day0030 minutes00 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Transform - 0.JPG-successful 
+
+Configuration file was generated-successfully
+Checksum file generate - successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day0031 minutes14 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Checksum file generate - successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day0038 minutes38 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Checksum file generate - successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day0054 minutes01 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Checksum file generate - successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day1436 minutes55 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day1437 minutes37 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2337 minutes07 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2338 minutes21 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2339 minutes16 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2343 minutes37 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2347 minutes27 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2349 minutes36 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2355 minutes45 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month24 day2356 minutes44 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month25 day0001 minutes55 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month26 day2109 minutes17 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month26 day2208 minutes28 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.26 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0107 minutes25 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Transform - 1.JPG-successful 
+
+Transform - 2.JPG-successful 
+
+Transform - 3.JPG-successful 
+
+Transform - 4.JPG-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0111 minutes02 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0111 minutes15 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0111 minutes58 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0112 minutes15 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0114 minutes48 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0114 minutes55 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0119 minutes17 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0120 minutes00 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0121 minutes34 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0122 minutes19 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0136 minutes29 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.43 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day0144 minutes38 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.76 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2102 minutes28 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.76 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2249 minutes55 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2251 minutes03 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2252 minutes41 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2256 minutes39 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2258 minutes13 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2300 minutes39 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month28 day2301 minutes42 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:0.75 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day0037 minutes35 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day0037 minutes51 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day0040 minutes42 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day0043 minutes23 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day0102 minutes28 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2026 minutes27 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Transform - 3.JPG-successful 
+
+Transform - 4.JPG-successful 
+
+Transform - 5.JPG-successful 
+
+Transform - 6.JPG-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.04 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2111 minutes17 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2113 minutes07 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2127 minutes51 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2128 minutes56 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2130 minutes45 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2134 minutes49 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2136 minutes29 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2145 minutes06 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month29 day2147 minutes18 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0012 minutes14 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0015 minutes27 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0015 minutes42 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0019 minutes11 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0022 minutes22 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0024 minutes43 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.04 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year11 month30 day0025 minutes23 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year12 month01 day0103 minutes26 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year12 month11 day0018 minutes40 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2019 year12 month12 day0036 minutes49 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day0221 minutes37 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.03 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day0223 minutes59 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Transform - 5.JPG-successful 
+
+Transform - 6.JPG-successful 
+
+Transform - 7.JPG-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day0225 minutes41 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day0226 minutes25 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day1742 minutes05 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2232 minutes06 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2233 minutes06 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2233 minutes07 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2233 minutes14 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.07 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2331 minutes47 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Transform - 7.JPG-successful 
+
+Transform - 8.JPG-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2334 minutes18 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2340 minutes25 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2340 minutes33 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2341 minutes51 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2344 minutes19 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2345 minutes42 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
+=============================== 
+VGUS2019 development tool version number: 20190325
+Compile time: 2020 year03 month21 day2346 minutes19 seconds
+================================
+Generate ViewTech configuration file-successful 
+
+Generate Icon file-successful 
+
+Generate Font file-successful 
+
+Generate Audio file-successful 
+
+Generate video files-successful 
+
+Generate user data files-successful 
+
+Configuration file was generated-successfully
+Generate the size of project:1.38 MB!
